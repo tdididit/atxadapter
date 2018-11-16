@@ -1,2 +1,2 @@
 # Universal ATX Adapter
-![Adapter Board](/images/univrsal-atx-adapter-brd.png)
+![Adapter Board](/images/universal-atx-adapter-brd.png)
